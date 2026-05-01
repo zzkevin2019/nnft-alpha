@@ -1,7 +1,7 @@
 # nnft-alpha
 
 Simulation code and data for *Optimal Architecture and Fundamental Bounds
-in Neural Network Field Theory* by Zhengkang Zhang (arXiv:2604.XXXXX).
+in Neural Network Field Theory* by Zhengkang Zhang ([arXiv:2604.27050](https://arxiv.org/abs/2604.27050)).
 
 Neural network field theory (NNFT) represents a scalar field as a neural
 network and samples field configurations by drawing network parameters.
@@ -95,14 +95,14 @@ NetworkGenerator, generate_four_point_configs` resolves directly.
 If this code is useful in your work, please cite:
 
 ```bibtex
-@article{Zhang:2026,
-  author  = "Zhang, Zhengkang",
-  title   = "{Optimal Architecture and Fundamental Bounds in Neural Network Field Theory}",
-  eprint  = "2604.XXXXX",
-  archivePrefix = "arXiv",
-  primaryClass = "hep-th",
-  month = "4",
-  year = "2026"
+@article{Zhang:2026tss,
+    author = "Zhang, Zhengkang",
+    title = "{Optimal Architecture and Fundamental Bounds in Neural Network Field Theory}",
+    eprint = "2604.27050",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    month = "4",
+    year = "2026"
 }
 ```
 
